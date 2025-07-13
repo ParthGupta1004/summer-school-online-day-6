@@ -1,4 +1,4 @@
-**To-Do List App**
+# To-Do List App
 This is a React + Vite-based To-Do List app built for the Summer School assignment.
 Features:
 
